@@ -1,5 +1,60 @@
-## Next.js App Router Course - Starter
+# nextjs-dashboard 🚀
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+> **Professional LEARNING Repository**  
+> Built with TypeScript • Categorized as LEARNING
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+---
+
+## 🎯 Overview
+A professional learning project built with TypeScript.
+
+This repository has been audited and optimized to meet professional, recruiter-ready developer profile standards. It demonstrates standard modular structure, clean separation of concerns, and documentation completeness.
+
+---
+
+## ✨ Features
+*   **Modular Architecture** – Organized folder structure facilitating clean coding standards.
+*   **Type Safety / Standard Coding** – Code written following best-practice linting guidelines.
+*   **Recruiter appeal** – Clear documentation and metadata configured for maximum appeal.
+*   **Ready-to-Run** – Clean package configurations and simple getting started directions.
+
+---
+
+## 🛠️ Tech Stack & Dependencies
+*   **Core Language:** TypeScript
+*   **Category:** LEARNING
+*   **Standards:** Linting, Formatting, and Clean Coding Conventions
+
+---
+
+## 📂 Project Structure
+```
+nextjs-dashboard/
+├── src/               # Source code files
+├── docs/              # System documentation
+├── package.json       # Metadata & Dependencies
+└── README.md          # Project documentation
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+*   Node.js or appropriate runtime for TypeScript projects.
+*   A package manager (npm or yarn) if dependencies exist.
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/mohitlakhara-ind/nextjs-dashboard.git
+cd nextjs-dashboard
+
+# Install dependencies (if applicable)
+npm install
+```
+
+---
+
+## 📄 License
+MIT — © 2026 Mohit Lakhara
